@@ -18,7 +18,7 @@ badd +1 README.md
 badd +1 index.html
 badd +1 main.scss
 badd +6 main.js
-badd +0 /storage/emulated/0/termux/light
+badd +1 /storage/emulated/0/termux/light
 argglobal
 %argdel
 $argadd /storage/emulated/0/termux/light
